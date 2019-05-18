@@ -1564,17 +1564,6 @@ body {
     padding-bottom: 1.5rem;
   }
 }
-.cid-rqMOEVZ69B {
-  padding-top: 105px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #232323, #25aab2);
-}
-.cid-rqMOEVZ69B .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rqMOEVZ69B DIV {
-  text-align: left;
-}
 .cid-rpQN8PIU4D {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -1786,4 +1775,15 @@ body {
     -webkit-flex-basis: 33%;
     flex-basis: 33%;
   }
+}
+.cid-rqMOEVZ69B {
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #232323, #25aab2);
+}
+.cid-rqMOEVZ69B .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rqMOEVZ69B DIV {
+  text-align: left;
 }
